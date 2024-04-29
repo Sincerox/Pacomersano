@@ -1,0 +1,9 @@
+
+Iniciar Proyecto
+django-admin startproject PacomeSano
+
+Crear APP
+py manage.py startapp catalog
+
+Instalar los requerimientos del txt
+pip install -r requirements.txt
