@@ -1,4 +1,4 @@
-Wea mala:
+busqueda recetas español en beta o en ingles full:
 https://developer.edamam.com/es/api-recetas-edamam-documentacion
 
 Busquedas en español:
